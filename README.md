@@ -1,4 +1,4 @@
-![GitHub Readme Image](/github.png)
+![GitHub Readme Image](github.png)
 <!--
 **otherm/otherm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
