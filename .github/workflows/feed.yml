@@ -2,8 +2,7 @@ name: Update this repo's README
 
 on:
   schedule:
-    # Once a day at 8 AM
-    - cron: 30 17 * * *
+    - cron: * 17 * * *
 
 jobs:
   update:
@@ -11,5 +10,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://otherm.cc/rss.xml
+          feed-url: https://0066cc.com/rss.xml
           readme-section: feed
