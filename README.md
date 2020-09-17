@@ -10,4 +10,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
+```text
+Markdown     9 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   41.50 % 
+JavaScript   5 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.94 % 
+CSS          4 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Bash         1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+XML          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+```
 <!--END_SECTION:waka-->
