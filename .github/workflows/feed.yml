@@ -2,7 +2,7 @@ name: Update this repo's README
 
 on:
   schedule:
-    - cron: * 17 * * *
+    - cron: 50 8 * * *
 
 jobs:
   update:
