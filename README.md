@@ -8,3 +8,6 @@
 - [The Backlog Issue 2](https://0066cc.com/blog/backlog2/)
 - [The Backlog](https://0066cc.com/blog/backlog/)
 <!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
