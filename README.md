@@ -1,5 +1,5 @@
 ![Profile Banner](https://github.com/otherm/otherm/blob/master/readme.png)
-##### Latest Blog Posts:
+#### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [On Switching to Ed](https://0066cc.com/blog/usingEd/)
 - [Ed Cheat Sheet](https://0066cc.com/blog/edCheatSheet/)
@@ -7,7 +7,7 @@
 - [160Km Later](https://0066cc.com/blog/running/)
 - [The Backlog Issue 2](https://0066cc.com/blog/backlog2/)
 <!-- BLOG-POST-LIST:END -->
-##### Usually Working With:
+#### Usually Working With:
 <p float="left">
 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
