@@ -6,6 +6,9 @@
 - [Makefile Fundamentals](https://0066cc.com/blog/makefile/)
 - [160Km Later](https://0066cc.com/blog/running/)
 - [The Backlog Issue 2](https://0066cc.com/blog/backlog2/)
+- [The Backlog](https://0066cc.com/blog/backlog/)
+- [Why Mastodon Matters](https://0066cc.com/blog/mastodon/)
+- [On Reading](https://0066cc.com/blog/onreading/)
 <!-- BLOG-POST-LIST:END -->
 #### Usually Working With:
 <p float="left">
