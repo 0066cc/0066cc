@@ -1,6 +1,8 @@
 ![Profile Banner](https://github.com/otherm/otherm/blob/master/readme.png)
 #### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Some Thoughts on Deep Work](https://0066cc.com/blog/deepwork/)
+- [Making Linux Look Good](https://0066cc.com/blog/linuxlookgood/)
 - [On Switching to Ed](https://0066cc.com/blog/usingEd/)
 - [Ed Cheat Sheet](https://0066cc.com/blog/edCheatSheet/)
 - [Makefile Fundamentals](https://0066cc.com/blog/makefile/)
