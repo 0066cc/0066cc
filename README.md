@@ -1,4 +1,3 @@
-![Profile Banner](https://github.com/otherm/otherm/blob/master/readme.png)
 #### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Some Thoughts on Deep Work](https://0066cc.com/blog/deepwork/)
