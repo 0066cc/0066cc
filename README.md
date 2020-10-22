@@ -17,7 +17,6 @@
   <b><a href="https://0066cc.com">Latest Blog Posts:</a></b>
 </p>
 
-#### 
 <!-- BLOG-POST-LIST:START -->
 - [Some Thoughts on Deep Work](https://0066cc.com/blog/deepwork/)
 - [Making Linux Look Good](https://0066cc.com/blog/linuxlookgood/)
@@ -31,7 +30,9 @@
 - [On Reading](https://0066cc.com/blog/onreading/)
 <!-- BLOG-POST-LIST:END -->
 </td></tr></table>
+
 <!--START_SECTION:waka-->
+
 📊 **This Week I Spent My Time On** 
 
 ```text
