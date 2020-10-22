@@ -32,7 +32,6 @@
 </td></tr></table>
 
 <!--START_SECTION:waka-->
-
 📊 **This Week I Spent My Time On** 
 
 ```text
