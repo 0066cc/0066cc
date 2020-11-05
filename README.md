@@ -18,6 +18,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Do We Need This?](https://0066cc.com/blog/siteredesign/)
 - [Some Thoughts on Deep Work](https://0066cc.com/blog/deepwork/)
 - [Making Linux Look Good](https://0066cc.com/blog/linuxlookgood/)
 - [On Switching to Ed](https://0066cc.com/blog/usingEd/)
@@ -27,7 +28,6 @@
 - [The Backlog Issue 2](https://0066cc.com/blog/backlog2/)
 - [The Backlog](https://0066cc.com/blog/backlog/)
 - [Why Mastodon Matters](https://0066cc.com/blog/mastodon/)
-- [On Reading](https://0066cc.com/blog/onreading/)
 <!-- BLOG-POST-LIST:END -->
 </td></tr></table>
 
