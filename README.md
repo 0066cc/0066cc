@@ -1,8 +1,3 @@
-<h2 align="center">
-  I write code, sometimes it even compiles.
-</h2>
-
-
 <table><tr><td valign="top" width="50%">
   
 <p align="center">
