@@ -5,6 +5,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [19,831 Pages Later](https://0066cc.com/blog/2020bookreview/)
 - [Reducing Gatsby Page Sizes by 172.2%](https://0066cc.com/blog/gatsbyreduce/)
 - [Do We Need This?](https://0066cc.com/blog/siteredesign/)
 - [Some Thoughts on Deep Work](https://0066cc.com/blog/deepwork/)
@@ -14,7 +15,6 @@
 - [Makefile Fundamentals](https://0066cc.com/blog/makefile/)
 - [160Km Later](https://0066cc.com/blog/running/)
 - [The Backlog Issue 2](https://0066cc.com/blog/backlog2/)
-- [The Backlog](https://0066cc.com/blog/backlog/)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="50%">
