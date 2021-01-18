@@ -5,16 +5,16 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [19,831 Pages Later](https://0066cc.com/blog/2020bookreview/)
-- [Reducing Gatsby Page Sizes by 172.2%](https://0066cc.com/blog/gatsbyreduce/)
-- [Do We Need This?](https://0066cc.com/blog/siteredesign/)
-- [Some Thoughts on Deep Work](https://0066cc.com/blog/deepwork/)
-- [Making Linux Look Good](https://0066cc.com/blog/linuxlookgood/)
-- [On Switching to Ed](https://0066cc.com/blog/usingEd/)
-- [Ed Cheat Sheet](https://0066cc.com/blog/edCheatSheet/)
-- [Makefile Fundamentals](https://0066cc.com/blog/makefile/)
-- [160Km Later](https://0066cc.com/blog/running/)
-- [The Backlog Issue 2](https://0066cc.com/blog/backlog2/)
+- [19,831 Pages Later](https://0066cc.com/blog/2021/19273pageslater.html)
+- [Reducing Gatsby Page Sizes by 172.2%](https://0066cc.com/blog/2020/gatsbyReduce.html)
+- [Do We Need This?](https://0066cc.com/blog/2020/brutalweb.html)
+- [Some Thoughts on Deep Work](https://0066cc.com/blog/2020/deepwork.html)
+- [Making Linux Look Good](https://0066cc.com/blog/2020/linuxGood.html)
+- [On Switching to Ed](https://0066cc.com/blog/2020/usingEd.html)
+- [Makefile Fundamentals](https://0066cc.com/blog/2020/makefile.html)
+- [Ed Cheat Sheet](https://0066cc.com/blog/2020/edCheat.html)
+- [160Km Later](https://0066cc.com/blog/2020/running.html)
+- [The Backlog Issue 2](https://0066cc.com/blog/2020/backlog2.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="50%">
