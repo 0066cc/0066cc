@@ -5,6 +5,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
 - [19,831 Pages Later](https://atthis.link/blog/2021/19273pageslater.html)
 - [Reducing Gatsby Page Sizes by 172.2%](https://atthis.link/blog/2020/gatsbyReduce.html)
 - [Do We Need This?](https://atthis.link/blog/2020/brutalweb.html)
@@ -14,7 +15,6 @@
 - [Makefile Fundamentals](https://atthis.link/blog/2020/makefile.html)
 - [Ed Cheat Sheet](https://atthis.link/blog/2020/edCheat.html)
 - [160Km Later](https://atthis.link/blog/2020/running.html)
-- [The Backlog Issue 2](https://atthis.link/blog/2020/backlog2.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="50%">
