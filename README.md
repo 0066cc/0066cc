@@ -1,7 +1,7 @@
 <table><tr><td valign="top" width="50%">
   
 <p align="center">
-  <b><a href="https://0066cc.com">Latest Blog Posts:</a></b>
+  <b><a href="https://atthis.link">Latest Blog Posts:</a></b>
 </p>
 
 <!-- BLOG-POST-LIST:START -->
