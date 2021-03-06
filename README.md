@@ -5,6 +5,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Minutes to Make a Difference](https://atthis.link/blog/2021/fifteenminutes.html)
 - [My Terminal-First Blogging Workflow](https://atthis.link/blog/2021/terminalwriting.html)
 - [Organic, Homegrown HTML](https://atthis.link/blog/2021/html.html)
 - [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
@@ -14,7 +15,6 @@
 - [Some Thoughts on Deep Work](https://atthis.link/blog/2020/deepwork.html)
 - [Making Linux Look Good](https://atthis.link/blog/2020/linuxGood.html)
 - [On Switching to Ed](https://atthis.link/blog/2020/usingEd.html)
-- [Makefile Fundamentals](https://atthis.link/blog/2020/makefile.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="50%">
