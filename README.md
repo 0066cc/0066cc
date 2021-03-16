@@ -5,6 +5,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Value of a Personal Site](https://atthis.link/blog/2021/personalsite.html)
 - [15 Minutes to Make a Difference](https://atthis.link/blog/2021/fifteenminutes.html)
 - [My Terminal-First Blogging Workflow](https://atthis.link/blog/2021/terminalwriting.html)
 - [Organic, Homegrown HTML](https://atthis.link/blog/2021/html.html)
@@ -14,7 +15,6 @@
 - [Do We Need This?](https://atthis.link/blog/2020/brutalweb.html)
 - [Some Thoughts on Deep Work](https://atthis.link/blog/2020/deepwork.html)
 - [Making Linux Look Good](https://atthis.link/blog/2020/linuxGood.html)
-- [On Switching to Ed](https://atthis.link/blog/2020/usingEd.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="50%">
