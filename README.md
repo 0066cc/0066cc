@@ -5,6 +5,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Running with FOSS](https://atthis.link/blog/2021/fossfitness.html)
 - [The Value of a Personal Site](https://atthis.link/blog/2021/personalsite.html)
 - [15 Minutes to Make a Difference](https://atthis.link/blog/2021/fifteenminutes.html)
 - [My Terminal-First Blogging Workflow](https://atthis.link/blog/2021/terminalwriting.html)
@@ -14,7 +15,6 @@
 - [Reducing Gatsby Page Sizes by 172.2%](https://atthis.link/blog/2020/gatsbyReduce.html)
 - [Do We Need This?](https://atthis.link/blog/2020/brutalweb.html)
 - [Some Thoughts on Deep Work](https://atthis.link/blog/2020/deepwork.html)
-- [Making Linux Look Good](https://atthis.link/blog/2020/linuxGood.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="50%">
