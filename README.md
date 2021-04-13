@@ -3,6 +3,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [A Year of Blogging](https://atthis.link/blog/2021/oneyear.html)
 - [Owning Your Own Data](https://atthis.link/blog/2021/yourowndata.html)
 - [Running with FOSS](https://atthis.link/blog/2021/fossfitness.html)
 - [The Value of a Personal Site](https://atthis.link/blog/2021/personalsite.html)
@@ -12,5 +13,4 @@
 - [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
 - [19,831 Pages Later](https://atthis.link/blog/2021/19273pageslater.html)
 - [Reducing Gatsby Page Sizes by 172.2%](https://atthis.link/blog/2020/gatsbyReduce.html)
-- [Do We Need This?](https://atthis.link/blog/2020/brutalweb.html)
 <!-- BLOG-POST-LIST:END -->
