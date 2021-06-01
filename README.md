@@ -3,6 +3,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [When It's Ready](https://atthis.link/blog/2021/reveal.html)
 - [Going Offline To Reconnect](https://atthis.link/blog/2021/stepback.html)
 - [The Thinkpad X230 in 2021](https://atthis.link/blog/2021/thinkpad.html)
 - [The Mistake of A New Laptop](https://atthis.link/blog/2021/reassesstech.html)
@@ -12,5 +13,4 @@
 - [Running with FOSS](https://atthis.link/blog/2021/fossfitness.html)
 - [The Value of a Personal Site](https://atthis.link/blog/2021/personalsite.html)
 - [15 Minutes to Make a Difference](https://atthis.link/blog/2021/fifteenminutes.html)
-- [My Terminal-First Blogging Workflow](https://atthis.link/blog/2021/terminalwriting.html)
 <!-- BLOG-POST-LIST:END -->
