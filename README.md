@@ -3,6 +3,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Do The Work](https://atthis.link/blog/2021/time.html)
 - [When It's Ready](https://atthis.link/blog/2021/reveal.html)
 - [Going Offline To Reconnect](https://atthis.link/blog/2021/stepback.html)
 - [The Thinkpad X230 in 2021](https://atthis.link/blog/2021/thinkpad.html)
@@ -12,5 +13,4 @@
 - [Owning Your Own Data](https://atthis.link/blog/2021/yourowndata.html)
 - [Running with FOSS](https://atthis.link/blog/2021/fossfitness.html)
 - [The Value of a Personal Site](https://atthis.link/blog/2021/personalsite.html)
-- [15 Minutes to Make a Difference](https://atthis.link/blog/2021/fifteenminutes.html)
 <!-- BLOG-POST-LIST:END -->
