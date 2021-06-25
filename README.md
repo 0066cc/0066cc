@@ -3,6 +3,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogging as a By-Product](https://atthis.link/blog/2021/blogginside.html)
 - [Do The Work](https://atthis.link/blog/2021/time.html)
 - [When It's Ready](https://atthis.link/blog/2021/reveal.html)
 - [Going Offline To Reconnect](https://atthis.link/blog/2021/stepback.html)
@@ -12,5 +13,4 @@
 - [A Year of Blogging](https://atthis.link/blog/2021/oneyear.html)
 - [Owning Your Own Data](https://atthis.link/blog/2021/yourowndata.html)
 - [Running with FOSS](https://atthis.link/blog/2021/fossfitness.html)
-- [The Value of a Personal Site](https://atthis.link/blog/2021/personalsite.html)
 <!-- BLOG-POST-LIST:END -->
